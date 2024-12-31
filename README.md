@@ -1,6 +1,6 @@
 # R Project - Student Lifestyle Dataset Analysis
 
-The data analyzed in this project contains different aspects of student lifestyle from 2000 students. The data set used was sourced from Kaggle.
+The data analyzed in this project contains different aspects of student lifestyle from 2000 students. The data set used was sourced from Kaggle. This is the initial R project for this data set, focusing only on basic visualization and analysis. Future updates will include statistical analysis, modelling, and predictive analytics.
 
 ---
 
