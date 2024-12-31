@@ -46,8 +46,10 @@ This analysis aims to visualize patterns and understand any correlations between
    git clone https://github.com/your-username/project-name.git
    ```
 
-2. Open the .Rproj file in RStudio.
-
+2. Download the dataset from Kaggle from above link.
+  
+3. Open the .Rproj file in RStudio.
+  
 4. Install required libraries:
    ```{r}
    install.packages(c("tidyverse", "ggplot2", "tidyr", "dplyr", "wesanderson", "knitr"))
