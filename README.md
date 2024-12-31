@@ -61,8 +61,8 @@ This analysis aims to visualize patterns and understand any correlations between
 
 ## Author
 
-Vera Alamar
-[@veraalamar](https://www.linkedin.com/in/veraalamar/)
+Vera Alamar <br>
+[@veraalamar](https://www.linkedin.com/in/veraalamar/) <br>
 [@vera-alamar](https://github.com/vera-alamar)
 
 ---
