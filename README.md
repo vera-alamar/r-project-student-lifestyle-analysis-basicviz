@@ -56,6 +56,9 @@ This analysis aims to visualize patterns and understand any correlations between
    
 5. Run the .Rmd notebook to view the analysis.
 
+Alternatively:
+
+Open the html file for the knitted report of the project. 
 
 ---
 
